@@ -3,6 +3,9 @@
 
 「東京都立大学2026こども祭り」で展示し、当日来場した子供達に銃型コントローラーを持って体験してもらいました。
 
+<img alt="" src="./InGame02.png" width="{150px}"> <img alt="" src="./InGame03.png" width="{50px}">
+
+
 このリポジトリはコードのみですが、以下のリンクからPCですぐ中身を確認できる「SweetsBangGet.exe」をダウンロードすることができます。
 
 [GoogleDrive](https://drive.google.com/drive/folders/1gUTS2zINzBlP5zEwkqOjjxWJk-ijq53C?usp=drive_link)
