@@ -15,7 +15,11 @@ GoogleDriveの「SweetsBangGet」フォルダをまとめてダウンロード�
 
 ・Z/X/Cキーでそれぞれプレイヤー1/2/3の弾丸を発射
 
-となっています。その他、場面進行はNキー(bluetooth接続画面のみBキー)で次の場面へ進みます。
+となっています。
+
+その他、場面進行はNキー(bluetooth接続画面のみBキー)で次の場面へ進みます。
+
+
 <img alt="" src="./InGame02.png" width="{150px}"> <img alt="" src="./InGame01.png" width="{150px}">
 
 
