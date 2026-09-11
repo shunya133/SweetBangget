@@ -1,11 +1,13 @@
 # SweetBangGet
 「東京都立大学2026こども祭り」で展示したジャイロセンサーを用いた射撃ゲーム「SweetsBangGet」のUnityProjectリポジトリです
 
-こちらはコードのみですが、以下のリンクからPCですぐ中身を確認できる「SweetsBangGet.exe」をダウンロードすることができます。
+このリポジトリはコードのみですが、以下のリンクからPCですぐ中身を確認できる「SweetsBangGet.exe」をダウンロードすることができます。
 
 [GoogleDrive](https://drive.google.com/drive/folders/1gUTS2zINzBlP5zEwkqOjjxWJk-ijq53C?usp=drive_link)
 
 GoogleDriveの「SweetsBangGet」フォルダをまとめてダウンロード後、ファイル内の「SweetsBangGet.exe」を起動することで遊べます。
+
+センサーを用いて遊ぶことを前提としたゲームですが、PCでもプレイすることができます。
 
 ＜操作方法＞
 
